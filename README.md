@@ -1,4 +1,4 @@
-- Hello! I'm St4rshine!
+- Hello! I'm 3arthdvst!
 -  I love programming, hardware development, space/spacecraft!
 - I’m currently learning c++ development.
 -  How to reach me: neutronst4rshine@proton.me!
